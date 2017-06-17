@@ -28,12 +28,12 @@ Finally we will take a real world application based upon microservices and docke
 
 ## Bio
 
+### Dieter Reuter
+
+Dieter Reuter is a Senior Consultant at bee42 solutions gmbh and Docker Captain at Hypriot with more than 30 years of enterprise IT experience and unquenchable curiosity. Dealing with cutting-edge cloud technologies, obsessed with the DevOps movement and its associated automation. Dieter is using Docker from the early days on and is pushing Docker and Containers to ARM based IoT devices with rocket-like speed.
+
 ### Stefan Scherer
 
 Stefan is a Sr. Software Engineer at SEAL Systems. He enjoys automating things and uses Docker at work in various test environments. He is an early adopter of Docker on Windows, giving feedback and sharing his experience as a Microsoft MVP and Docker Captain. He is a maintainer of several Docker related Chocolatey packages. He also is member of the Hypriot team that gives the community a very easy experience for Docker on ARM devices.
 
 - https://avatars2.githubusercontent.com/u/207759?v=3&s=460
-
-### Dieter Reuter
-
-Dieter Reuter is a Senior Consultant at bee42 solutions gmbh and Docker Captain at Hypriot with more than 30 years of enterprise IT experience and unquenchable curiosity. Dealing with cutting-edge cloud technologies, obsessed with the DevOps movement and its associated automation. Dieter is using Docker from the early days on and is pushing Docker and Containers to ARM based IoT devices with rocket-like speed.

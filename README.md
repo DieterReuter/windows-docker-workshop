@@ -1,7 +1,7 @@
 # windows-docker-workshop
 [![Join the chat at https://gitter.im/windows-docker-workshop/Lobby](https://badges.gitter.im/windows-docker-workshop/Lobby.svg)](https://gitter.im/windows-docker-workshop/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-This is the material for the workshop "Getting started with Docker on Windows Server 2016" written by Stefan Scherer.
+This is the material for the workshop "Getting started with Docker on Windows Server 2016" written by Stefan Scherer and Dieter Reuter.
 
 ## Content
 
@@ -17,11 +17,11 @@ This is the material for the workshop "Getting started with Docker on Windows Se
 
 - The slides are in the `docs` folder.
 - You can view the slides locally by opening `docs/index.html` in a browser.
-- To view them online open [https://stefanscherer.github.io/windows-docker-workshop](https://stefanscherer.github.io/windows-docker-workshop).
 
 ## Past workshops
 
 - [DevOps Gathering 2017](https://devops-gathering.io/workshops/Getting-started-with-Docker-on-Windows-Server-2016/), Bochum, Germany, 2017-03-23
+- [ContainerDays 2017](https://containerdays.io/program.html), Hamburg, Germany, 2017-06-20
 
 ## Running the workshop
 

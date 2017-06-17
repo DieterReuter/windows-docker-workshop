@@ -8,9 +8,7 @@ background-image: url(assets/mvp_docker_captain.png)
 
 ## Intros
 
-- Hello! We are
-  Stefan ([@stefscherer](https://twitter.com/stefscherer))
-  &
+- Hello! I'm
   Dieter ([@Quintus23M](https://twitter.com/Quintus23M))
 
 ---
@@ -21,20 +19,20 @@ background-image: url(assets/mvp_docker_captain.png)
 - Agenda:
 -->
 
-.small[
-- 13:30-15:00 part 1
-- 15:00-15:15 coffee break
-- 15:15-16:45 part 2
-- 16:45-17:00 Q&A
+.large[
+- 10:00-11:15 part 1
+- 11:15-11:30 coffee break
+- 11:30-12:45 part 2
+- 12:45-13:00 Q&A
 ]
 
 <!--
-- The tutorial will run from 1pm to 5pm
+- The tutorial will run from 10am to 1pm
 - This will be fast-paced, but DON'T PANIC!
 - We will do short breaks for coffee + QA every hour
 -->
 
-- Feel free to interrupt for questions at any time
+Feel free to interrupt for questions at any time
 
 ---
 
@@ -106,7 +104,7 @@ background-image: url(assets/mvp_docker_captain.png)
 - Go to [stefanscherer.github.io/windows-docker-workshop](https://stefanscherer.github.io/windows-docker-workshop/) to view these slides
 
 - Join the chat room on
-  [gitter.im/windows-docker-workshop/Lobby](https://gitter.im/windows-docker-workshop/Lobby)
+  [gitter.im/windows-docker-workshop-containerdays2017/Lobby](https://gitter.im/windows-docker-workshop-containerdays2017/Lobby)
 
 ]
 
@@ -140,11 +138,11 @@ You are welcome to use the method that you feel the most comfortable with.
 ## Brand new versions!
 
 - Docker Enterprise Edition 17.03.0
-- Docker Compose 1.11.2
+- Docker Compose 1.13.0
 
 .exercise[
 - Log into your Docker host through RDP (user and password is on your card)<br /><br />
-  **`dog2017-win-XX.westeurope.cloudapp.azure.com`**
+  **`bee42-win-XX.westeurope.cloudapp.azure.com`**
 
 - Open a terminal
 
@@ -672,7 +670,7 @@ class: title
 
 - Now **on your local computer**, open a browser
 
-  - http://dog2017-win-XX.westeurope.cloudapp.azure.com
+  - http://bee42-win-XX.westeurope.cloudapp.azure.com
 
  ]
 
@@ -800,7 +798,7 @@ start http://$(docker inspect -f '{{.NetworkSettings.Networks.nat.IPAddress}}' i
 
 - Now **on your local computer**, open a browser
 
-  - http://dog2017-win-XX.westeurope.cloudapp.azure.com
+  - http://bee42-win-XX.westeurope.cloudapp.azure.com
 
 ]
 
@@ -1039,14 +1037,14 @@ http://stefanscherer.github.io/protecting-a-windows-2016-docker-engine-with-tls/
 - Retrieve the public IP address
 
   ```powershell
-  nslookup dog2017-win-XX.westeurope.cloudapp.azure.com
+  nslookup bee42-win-XX.westeurope.cloudapp.azure.com
   ```
 
 - Run the dockertls container with local and public IP address (replace `x.x.x.x`)
 
   ```powershell
   docker container run --rm `
-    -e SERVER_NAME=dog2017-win-XX.westeurope.cloudapp.azure.com `
+    -e SERVER_NAME=bee42-win-XX.westeurope.cloudapp.azure.com `
     -e IP_ADDRESSES=$ips,x.x.x.x `
     -v "C:\ProgramData\docker:C:\ProgramData\docker" `
     -v "$env:USERPROFILE\.docker:C:\Users\ContainerAdministrator\.docker" `
@@ -1115,7 +1113,7 @@ http://stefanscherer.github.io/protecting-a-windows-2016-docker-engine-with-tls/
 - Copy client certs back to your local machine
 
   ```powershell
-  docker --tlsverify -H dog2017-win-XX.westeurope.cloudapp.azure.com:2376 version
+  docker --tlsverify -H bee42-win-XX.westeurope.cloudapp.azure.com:2376 version
   ```
 
 ]
@@ -1727,7 +1725,5 @@ class: title
 
 # Thanks!  
 Questions?
-
-## Stefan Scherer [@stefscherer](https://twitter.com/stefscherer)
 
 ## Dieter Reuter [@Quintus23M](https://twitter.com/Quintus23M)
