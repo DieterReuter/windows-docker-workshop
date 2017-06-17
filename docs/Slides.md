@@ -8,9 +8,9 @@ background-image: url(assets/mvp_docker_captain.png)
 
 ## Intros
 
-- Hello! I'm
-  Dieter ([@Quintus23M](https://twitter.com/Quintus23M))
+- Hello! I'm Dieter.
 
+Dieter Reuter [@Quintus23M](https://twitter.com/Quintus23M), email: [dieter.reuter@bee42.com](mailto:dieter.reuter@bee42.com)
 ---
 
 ## Agenda
@@ -1726,4 +1726,4 @@ class: title
 # Thanks!  
 Questions?
 
-## Dieter Reuter [@Quintus23M](https://twitter.com/Quintus23M)
+## Dieter Reuter [@Quintus23M](https://twitter.com/Quintus23M), email: [dieter.reuter@bee42.com](mailto:dieter.reuter@bee42.com)
