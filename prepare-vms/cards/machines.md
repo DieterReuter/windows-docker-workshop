@@ -30,6 +30,8 @@
 | Username | admin3836 |
 | Password | `8Ed6ju4n7QT[n` |
 
+.
+
 # Accounts 7 - 12
 
 | FQDN | bee42-win-07.westeurope.cloudapp.azure.com   |
@@ -61,6 +63,8 @@
 |-|-|
 | Username | admin2638 |
 | Password | `NcD948D,a3QHV` |
+
+.
 
 # Accounts 13 - 18
 
@@ -94,6 +98,8 @@
 | Username | admin2433 |
 | Password | `Epk4^32rMUK9H` |
 
+.
+
 # Accounts 19 - 24
 
 | FQDN | bee42-win-19.westeurope.cloudapp.azure.com   |
@@ -126,6 +132,8 @@
 | Username | admin5242 |
 | Password | `H34bxaHD!Dc44` |
 
+.
+
 # Accounts 25 - 30
 
 | FQDN | bee42-win-25.westeurope.cloudapp.azure.com   |
@@ -157,3 +165,5 @@
 |-|-|
 | Username | admin9448 |
 | Password | `8LC6KPc^X3yG8` |
+
+.
