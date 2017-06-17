@@ -4,7 +4,7 @@ class: title
 Docker on Windows <br/> Workshop
 
 ---
-background-image: url(assets/mvp_docker_captain.png)
+background-image: url(assets/docker_captain.png)
 
 ## Intros
 
