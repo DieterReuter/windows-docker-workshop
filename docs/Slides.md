@@ -12,6 +12,7 @@ background-image: url(assets/docker_captain.png)
 
 Dieter Reuter [@Quintus23M](https://twitter.com/Quintus23M), email: [dieter.reuter@bee42.com](mailto:dieter.reuter@bee42.com)
 ---
+background-image: url(assets/bee-logo.svg)
 
 ## Agenda
 
@@ -101,7 +102,7 @@ Feel free to interrupt for questions at any time
 .exercise[
 
 - This is the stuff you're supposed to do!
-- Go to [stefanscherer.github.io/windows-docker-workshop](https://stefanscherer.github.io/windows-docker-workshop/) to view these slides
+- Go to [ConDaysEU.bee42.com](https://ConDaysEU.bee42.com/) to view these slides
 
 - Join the chat room on
   [gitter.im/windows-docker-workshop-containerdays2017/Lobby](https://gitter.im/windows-docker-workshop-containerdays2017/Lobby)
