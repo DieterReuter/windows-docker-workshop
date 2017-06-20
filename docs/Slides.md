@@ -3,6 +3,14 @@ class: title
 
 Docker on Windows <br/> Workshop
 
+.large[
+Slides [ConDaysEU.bee42.com](https://ConDaysEU.bee42.com/)
+]
+
+.large[
+PDF: [http://condayseu.bee42.com/Docker-on-Windows-Workshop-ContainerDaysEU2017.pdf](Docker-on-Windows-Workshop-ContainerDaysEU2017.pdf)
+]
+
 ---
 background-image: url(assets/docker_captain.png)
 
@@ -11,6 +19,11 @@ background-image: url(assets/docker_captain.png)
 - Hello! I'm Dieter.
 
 Dieter Reuter [@Quintus23M](https://twitter.com/Quintus23M), email: [dieter.reuter@bee42.com](mailto:dieter.reuter@bee42.com)
+
+**DockerConEU** in Copenhagen
+
+- Code "CaptainDieter" (-10%)
+
 ---
 background-image: url(assets/bee-logo.svg)
 
